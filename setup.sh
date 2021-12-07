@@ -7,7 +7,7 @@ sudo mdutil -i off -a
 #Create new account
 sudo dscl . -create /Users/alone
 sudo dscl . -create /Users/alone UserShell /bin/bash
-sudo dscl . -create /Users/alone RealName "Alone"
+sudo dscl . -create /Users/alone RealName "DiopinYT"
 sudo dscl . -create /Users/alone UniqueID 1001
 sudo dscl . -create /Users/alone PrimaryGroupID 80
 sudo dscl . -create /Users/alone NFSHomeDirectory /Users/vncuser
