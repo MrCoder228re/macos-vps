@@ -23,6 +23,6 @@
     + Install VNC Viewer
     + Go to: https://dashboard.ngrok.com/endpoints/status copy host(eg: 0.tcp.in.ngrok.io:13472)
     + Username: DiopinYT
-    + Password: VMAnarchyMacOS
+    + Password: MacOS_10
 * Use [Chrome Remote Desktop](https://remotedesktop.google.com/support) for faster and smoother remotes
 
